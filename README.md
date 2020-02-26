@@ -1,16 +1,12 @@
 # Build a Food Review website 🌮🥑
 
-The team has been tasked with using the [Zomato API.](https://developers.zomato.com/) to list Seafood restaurants in Lisbon, Portugal in the style of the [Wolt site](https://wolt.com/sv)
+The team has been tasked with using the [Zomato API.](https://developers.zomato.com/) to list Seafood restaurants in Lisbon, Portugal in the style of the [Wolt site](https://wolt.com/sv).
 
 
 ### Features
 
-**Implement the randomly given design**
-
-**Filter on price range** 
-
-**Show delivery options** 
-
-**Sort on reviews**
-
-**Make the page responsive**
+* Filter on price range
+* Sort on reviews
+* Show delivery options
+* Implement the randomly given design
+* Make the page responsive
