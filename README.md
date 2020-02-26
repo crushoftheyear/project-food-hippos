@@ -1,8 +1,6 @@
 # Build a Food Review website 🌮🥑
 
-The team has been tasked with using the [Zomato API.](https://developers.zomato.com/) to list Seafood restaurants in Lisbon, Portugal in the style of the Wolt site:
-
-![Wolt](https://i.imgur.com/MlNJIYD.png)
+The team has been tasked with using the [Zomato API.](https://developers.zomato.com/) to list Seafood restaurants in Lisbon, Portugal in the style of the [Wolt site](https://wolt.com/sv)
 
 
 ### Features
